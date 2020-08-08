@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 *NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!*
 
 <a href="https://github.com/JustHmmmmm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JustHmmmm&show_icons=true&theme=gruvbox&count_private=true" alt="JustHmmmm GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JustHmmmm&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="JustHmmmm GitHub stats" />
 </a>
 
 <a href="https://github.com/JustHmmmmm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustHmmmm&layout=compact&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustHmmmm&&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 </a>
