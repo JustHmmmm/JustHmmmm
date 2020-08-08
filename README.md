@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 *NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!*
 
 <a href="https://github.com/JustHmmmmm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JustHmmmmm&show_icons=true&theme=gruvbox&count_private=true" alt="JustHmmmm GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JustHmmmm&show_icons=true&theme=gruvbox&count_private=true" alt="JustHmmmm GitHub stats" />
 </a>
 
 <a href="https://github.com/JustHmmmmm">
